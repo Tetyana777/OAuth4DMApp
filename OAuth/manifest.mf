@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: OAuthMod
+OpenIDE-Module-Localizing-Bundle: OAuthMod/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
